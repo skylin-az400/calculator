@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/skylin-az400/Configuring%20Pipelines%20as%20Code%20with%20YAML/_apis/build/status/skylin-az400.calculator?branchName=master)](https://dev.azure.com/skylin-az400/Configuring%20Pipelines%20as%20Code%20with%20YAML/_build/latest?definitionId=31&branchName=master)
